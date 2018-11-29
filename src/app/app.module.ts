@@ -7,7 +7,7 @@ import { HeroesComponent } from './components/heroes/heroes.component';
 import { HeroeComponent } from './components/heroes/heroe.component';
 
 // Routes
-import { APP_ROUTING } from "./app.routes";
+import { APP_ROUTING } from './app.routes';
 
 @NgModule({
   declarations: [
